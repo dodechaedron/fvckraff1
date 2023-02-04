@@ -16,13 +16,13 @@ const testWhitelist = new Map<string, RaffleMetaData>([
     },
   ],
   [
-    'HNscf22XXDPt82omw8sYSHAoiqPovm6ZSziD7MGwwv4j',
+    '6cD9x7CRgszxwTzHARofp6vwVxCHG2GtLYQmsNPJWjuJ',
     {
-      name: 'Primate #960',
+      name: '1000 BULG',
       overviewImageUri: 'https://bafybeigm2dtupeo4aytbpg5w2zk2fd4x6hvd6bpqc74ono5ud3nfbf24by.ipfs.nftstorage.link/959.png?ext=png',
 //      alternatePurchaseMints: [
 //        new PublicKey('So11111111111111111111111111111111111111112'),
-//      ],
+    //  ],
     },
   ],
   [

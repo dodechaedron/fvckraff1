@@ -358,7 +358,7 @@ export type Draffle = {
             "type": {
               "array": [
                 "publicKey",
-                1000
+                10000
               ]
             }
           }
@@ -800,7 +800,7 @@ export const IDL: Draffle = {
             "type": {
               "array": [
                 "publicKey",
-                1000
+                10000
               ]
             }
           }
