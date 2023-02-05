@@ -6,44 +6,13 @@ const testWhitelist = new Map<string, RaffleMetaData>([
 //  ['2tyFcRqu4dThVJnCsHELjLmaHXvyGmghVtRdT9Bs7Drw', { name: 'TheSuperSOL 3 wl' }],
 
   [
-    '4JZfysFwAMseh3xTykzzdexdb3LGBxVBu79kkDSZbwuA',
-    {
-      name: '100 $Bulg',
-      overviewImageUri: 'https://raw.githubusercontent.com/dodechaedron/Labsbulg/main/bulgae.jpeg',
-      alternatePurchaseMints: [
-        new PublicKey('So11111111111111111111111111111111111111112'),
-      ],
-    },
-  ],
-  [
     '6cD9x7CRgszxwTzHARofp6vwVxCHG2GtLYQmsNPJWjuJ',
     {
       name: '1000 BULG',
-      overviewImageUri: 'https://bafybeigm2dtupeo4aytbpg5w2zk2fd4x6hvd6bpqc74ono5ud3nfbf24by.ipfs.nftstorage.link/959.png?ext=png',
+      overviewImageUri: 'https://raw.githubusercontent.com/dodechaedron/Labsbulg/main/bulgae-reward-1000.png',
 //      alternatePurchaseMints: [
 //        new PublicKey('So11111111111111111111111111111111111111112'),
     //  ],
-    },
-  ],
-  [
-    'D4K3ToJ7pcPaFfxAP1PqrWa9JpoaoyGijC26P4pShQ3J',
-    {
-      name: '3-NFT Rakkudos',
-      overviewImageUri: 'https://raw.githubusercontent.com/ogadwintara/SOSTOKEN/main/RAKUDOS-RAFFLE-PRIZE-3-NFT.png',
-//      alternatePurchaseMints: [
-//        new PublicKey('So11111111111111111111111111111111111111112'),
-//      ],
-    },
-  ],
-
-  [
-    'dZ1V9awzQNVRAxDURkivGX98D49nnoV3BcC16aiRCHV',
-    {
-      name: 'DeGod #9560',
-      overviewImageUri: 'https://metadata.degods.com/g/9559-dead.png',
-//      alternatePurchaseMints: [
-//        new PublicKey('So11111111111111111111111111111111111111112'),
-//      ],
     },
   ],
 ]);
