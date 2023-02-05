@@ -6,7 +6,7 @@ export const useStyles = makeStyles((theme: Theme) => ({
     width: '100vw',
     height: '100vh',
     background:
-      'url(https://bafybeias7azs7vt2xfu22ysylawps5fedj2vg232hpbe2thlot3scb3usm.ipfs.nftstorage.link/)',
+      'url()https://raw.githubusercontent.com/dodechaedron/Labsbulg/main/website-bg.png',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
