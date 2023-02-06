@@ -15,6 +15,16 @@ const testWhitelist = new Map<string, RaffleMetaData>([
     //  ],
     },
   ],
+  [
+    'jDVbJiwvGfNvnRZ2x1QBBxFSgkC9Wr2D9eMWJHYrAuF',
+    {
+      name: '9 SOL',
+      overviewImageUri: 'https://raw.githubusercontent.com/dodechaedron/Labsbulg/main/sol-9-reward.png',
+//      alternatePurchaseMints: [
+//        new PublicKey('So11111111111111111111111111111111111111112'),
+    //  ],
+    },
+  ],
 ]);
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
